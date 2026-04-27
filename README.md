@@ -16,8 +16,6 @@ I'm San Francisco–based developer passionate about blockchain, crypto, and AI.
 &nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email"/>](mailto:acovali@calpoly.edu)
 
-<br/>
-
 ---
 
 **check out my projects below ↓**
