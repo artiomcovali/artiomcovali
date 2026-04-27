@@ -14,7 +14,7 @@ I'm San Francisco–based developer passionate about blockchain, crypto, and AI.
 &nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>](https://github.com/artiomcovali)
 &nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email"/>](mailto:artiomcovali@gmail.com)
+[<img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email"/>](mailto:acovali@calpoly.edu)
 
 <br/>
 
