@@ -4,8 +4,7 @@
 
 **CS + Sales @ Cal Poly SLO**
 
-I'm San Francisco–based developer passionate about blockchain, crypto, and AI. I enjoy working at the intersection of tech and business, especially in tech sales, bridging innovative products with real-world impact
-
+I’m a San Francisco–based computer science student at Cal Poly, passionate about blockchain, crypto, and AI. I’m especially interested in the intersection of tech and business, with a focus on tech sales and bringing innovative products to real-world use.
 <br/>
 
 **Connect with me:**
